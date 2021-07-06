@@ -1,9 +1,10 @@
 html {
-    background-color: #222;
+  background-color: #222;
 }
 
-header , header  h1{
-    color: lawngreen;
-    font-size: 72px;
-    text-align: center;
-}
+header,
+header  h1 {
+  color: lawngreen;
+  font-size: 72px;
+  text-align: center;
+} 
